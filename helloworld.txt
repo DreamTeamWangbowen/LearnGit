@@ -1,8 +1,6 @@
 helloworld!
 balabalaba
-<<<<<<< Updated upstream
 bilibilibili
 ---------
-=======
 0000000000
->>>>>>> Stashed changes
+0000000000
